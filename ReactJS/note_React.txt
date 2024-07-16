@@ -1,0 +1,15 @@
+Spread Operator: phân tách các phần tử thành loại đơn ở trong một loại object
+Template Literals: là một tính năng của JS ES6 cho phép dễ dàng tạo ra một chuỗi `...` hay một bất kỳ biểu thức nào của JS bên trong 1 chuỗi 
+			thông qua ${}
+Arrow Function: một hàm với cách thức viết được rút gọn
+Logical Operator ??: 	trả về giá trị thứ 2 khi giá trị đầu tiên là null hoặc undefined
+			trả về 0 khi giá trị thứ nhất là 0 hoặc một chuỗi trống
+Optional Chaining: JS sẽ hỏi xem những thuộc tính trước có tồn tại hay không thay vì cố gắng đọc đến thuộc tính cuối cùng
+--------------------------------------------------------------------------------
+Component: là một thành phần của giao diện chứa dữ liệu, logic JS và giao diện riêng
+JSX: Mỗi thành phần thì phải trả về một khối JPX, JPX là một phần của JS cho phép kết nối các thành phần HTML, CSS, JS trong đó
+Props: truyền và nhận dữ liệu giữa các component lồng nhau
+ingredient (chỗ dựa):
+
+
+107: Nên chia Component như thế nào và khi nào nên tạo ra component mới 
